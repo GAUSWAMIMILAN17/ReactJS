@@ -1,0 +1,25 @@
+body{
+    background-color: aliceblue;
+}
+.todo-card{
+    background-color: white;
+    width: 300px;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+.todo-item{
+    display: flex;
+}
+.todo-list{
+    display: flex;
+    justify-content: space-between;
+}
+.todo-task{
+    margin-left: 10px;
+}
+.todo-btn{
+    width: 300px;
+}
+.todo-title{
+    margin: 10px;
+}
